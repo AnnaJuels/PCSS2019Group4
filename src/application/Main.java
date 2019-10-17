@@ -22,6 +22,6 @@ public class Main extends Application {
 	
 	public static void main(String[] args) { // hello anna!
 		launch(args);
-		System.out.println("HelloMaja");
+		System.out.println("HelloMaja"); // added
 	}
 }
