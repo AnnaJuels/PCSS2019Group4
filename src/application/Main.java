@@ -16,7 +16,7 @@ public class Main extends Application {
 			primaryStage.setScene(scene);
 			primaryStage.show(); // badabingbadudadmamdam
 		} catch(Exception e) {
-			e.printStackTrace();
+			e.printStackTrace(); // HELLO MR VANGEDE AND SARAH
 		}
 	}
 	
