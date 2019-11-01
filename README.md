@@ -1,19 +1,19 @@
-###### Introduction
+## Introduction
 
 The Server side of this rock, paper, scissors game consists of two classes. The main Server class and the Handler class, whereas the Server contains the Multithread and therefore enables connecting to several players
 In order to start a game, a server is required to be running before the clients can join the server. As soon as two clients joined the server, a rock, paper, scissors game will start.
 The server side has been developed by ...
 The client side has been developed by ...
 
-###### Step-by-Step guide 
+## Step-by-Step guide 
 
-Step 1: Download the repository by clicking this link: PCSS2019Group4. Download the ZIP-file and save it to a local folder on your computer. Make sure that you have the latest java development kit installed on your computer.
-Step 2: In case you have not installed Eclipse before, please do that now. You can find the link on how to install Eclipse here: https://www.eclipse.org/downloads/packages/installer
-Step 3: After you have successfully installed Eclipse and downloaded the file on your computer, try to find and open the file. If you cannot find it, you can search for it in the file explorer search bar. 
-Step 4: When you have found the folder containing all the games content, click on the folders individual name → “src” → “application” and then mark all 4 files. Right click on the four marked files and choose “Open”. If it does not automatically open with Eclipse then press “Open with…” and choose “Eclipse”. 
-Step 5: You should now have the application window of Eclipse opened with 4 small tabs on the top of the screen, right beneath the menu options. 
-Step 6: If you want to play the game on your own computer, the already implemented keyword “localhost” will work as an IP-address. The only thing you have to do is make a copy of the Client-class and call it e.g. Client2. After that, you can just start running the server-class (by clicking the green run-button) and afterwards run the two clients. The game will then give you further instructions on how to play. If the game does not run then make sure if the port has the same number. By default (our decision) it is set to 8000.
-Step 7: In case you want to play on multiple computers, you will need to obtain the correct IP-address through the command prompt (cmd) before you can start the game. This can be done by opening cmd and enter the command “ipconfig”. That will display you different information, whereat only the IPV4 address (looking like this: 192.168.??.??) is important for you. Copy the address and paste it both in the server and client class instead of the keyword “localhost”. You should then be able to play the game on several computers using the Client and Client2 class.
+**Step 1:** Download the repository by clicking this link: PCSS2019Group4. Download the ZIP-file and save it to a local folder on your computer. Make sure that you have the latest java development kit installed on your computer.
+**Step 2:** In case you have not installed Eclipse before, please do that now. You can find the link on how to install Eclipse here: https://www.eclipse.org/downloads/packages/installer
+**Step 3:** After you have successfully installed Eclipse and downloaded the file on your computer, try to find and open the file. If you cannot find it, you can search for it in the file explorer search bar. 
+**Step 4:** When you have found the folder containing all the games content, click on the folders individual name → “src” → “application” and then mark all 4 files. Right click on the four marked files and choose “Open”. If it does not automatically open with Eclipse then press “Open with…” and choose “Eclipse”. 
+**Step 5:** You should now have the application window of Eclipse opened with 4 small tabs on the top of the screen, right beneath the menu options. 
+**Step 6:** If you want to play the game on your own computer, the already implemented keyword “localhost” will work as an IP-address. The only thing you have to do is make a copy of the Client-class and call it e.g. Client2. After that, you can just start running the server-class (by clicking the green run-button) and afterwards run the two clients. The game will then give you further instructions on how to play. If the game does not run then make sure if the port has the same number. By default (our decision) it is set to 8000.
+**Step 7:** In case you want to play on multiple computers, you will need to obtain the correct IP-address through the command prompt (cmd) before you can start the game. This can be done by opening cmd and enter the command “ipconfig”. That will display you different information, whereat only the IPV4 address (looking like this: 192.168.??.??) is important for you. Copy the address and paste it both in the server and client class instead of the keyword “localhost”. You should then be able to play the game on several computers using the Client and Client2 class.
 
 ## Gameplay
 The first message the player will see is:
