@@ -25,10 +25,10 @@ The client side has been developed by ...
 
 The first message the player will see is: <br/>
 <p align="center">
-*Welcome to Rock, Paper, Scissors! :)*
-*If you are playing for the first time, press 1 and enter to see the rules*
-*Press 2 and enter to start game immediately!*
-*Or press 3 and enter to exit the system.*
+*Welcome to Rock, Paper, Scissors!* <br/>
+*If you are playing for the first time, press 1 and enter to see the rules* <br/>
+*Press 2 and enter to start game immediately!* <br/>
+*Or press 3 and enter to exit the system.* <br/>
 </p>
  
 The rules of our game are the same as for a normal rock, paper, scissors game, which are: <br/>
