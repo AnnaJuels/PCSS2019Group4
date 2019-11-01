@@ -1,4 +1,4 @@
-package client;
+package application;
 
 
 public interface RPSConstants {
