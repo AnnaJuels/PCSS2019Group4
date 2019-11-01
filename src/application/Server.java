@@ -38,7 +38,7 @@ public class Server implements RPSConstants {
 					System.out.println("Game nr: " + gameCount + " started."); // define gamenumber
 
 					// Start a thread that creates a handler that takes two payers
-					new Thread(new Handler(player1, player2)).start();// Thread constructor
+					new Thread(new HandleAClient(player1, player2)).start();// Thread constructor
 				}
 
 			} catch (IOException ex) {// make error if try is not succeeded
