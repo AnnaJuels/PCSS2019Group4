@@ -3,8 +3,10 @@
 The Server side of this rock, paper, scissors game consists of two classes, the Server class and the Handler class. The Server contains the Multithread and therefore enables connecting to several players at once.
 In order to start a game, a server needs to be running before the clients can join the server. As soon as two clients join the server, they can start the rock, paper, scissors game.
 
-The server side has been developed by ...
-The client side has been developed by ...
+The server side has been developed by Maja Pedersen, Sarah Hierstätter and Mikkel Krarup. <br/>
+The client side has been developed by Anna-Lien Juelsbak, Bjørn Winther and Patrick Andersen. 
+
+Note: The client and server were uploaded by one person from each 'team' as we worked on the code from one computer and used a projector screen to be able to do it all together. 
 
 ## Step-by-Step guide 
 
