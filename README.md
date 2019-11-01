@@ -23,10 +23,10 @@ The client side has been developed by ...
 **Step 7:** In case you want to play on multiple computers, you will need to obtain the correct IP-address. All computers should be connected to the same network for this to work. 
 
 **Windows:** <br/>
-Your IP address can be obtained through 'Command Prompt' (cmd). The easiest way to access the Command Prompt is to search for it in search bar at the bottom on your screen. After opening cmd enter the command “ipconfig”. The cmd will display a lot of information, but you only need the "IPV4 address" (looking something like this: 192.168.??.??). Copy the address and paste it both in the server and client class instead of the keyword “localhost”. You should then be able to play the game on several computers by all using the Client class downloaded on each computer.
+Your IP address can be obtained through 'Command Prompt' (cmd). The easiest way to access the Command Prompt is to search for it in search bar at the bottom on your screen. After opening cmd enter the command “ipconfig”. The cmd will display a lot of information, but you only need the "IPV4 address" (looking something like this: 192.168.??.??). Copy the address and paste it both in the server and client class instead of the keyword “localhost” in the Socket line. You should then be able to play the game on several computers by all using the Client class downloaded on each computer.
 
 **Mac:** <br/>
-Your IP address can be obtained through 'Terminal' on your Mac. The easiest way to find it is to search for it in Spotlight Search (cmd + Space). Open Terminal and enter the command "ipconfig getifaddr en0". Your IP address should be displayed directly below your input (looking something like this: 192.168.??.??). Copy the address and paste it both in the server and client class instead of the keyword “localhost”. You should then be able to play the game on several computers by all using the Client class downloaded on each computer.
+Your IP address can be obtained through 'Terminal' on your Mac. The easiest way to find it is to search for it in Spotlight Search (cmd + Space). Open Terminal and enter the command "ipconfig getifaddr en0". Your IP address should be displayed directly below your input (looking something like this: 192.168.??.??). Copy the address and paste it both in the server and client class instead of the keyword “localhost” in the Socket line. You should then be able to play the game on several computers by all using the Client class downloaded on each computer.
 
 ## Gameplay
 
