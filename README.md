@@ -7,7 +7,7 @@ The client side has been developed by ...
 
 ## Step-by-Step guide 
 
-**Step 1:** Download the repository by clicking this link: PCSS2019Group4. Download the ZIP-file and save it to a local folder on your computer. Make sure that you have the latest java development kit installed on your computer.<br/>
+**Step 1:** Download the repository by clicking this link: https://github.com/bjornwinther/PCSS2019Group4. Download the ZIP-file and save it to a local folder on your computer. Make sure that you have the latest java development kit installed on your computer.<br/>
 
 **Step 2:** In case you have not installed Eclipse before, please do that now. You can find the link on how to install Eclipse here: https://www.eclipse.org/downloads/packages/installer <br/>
 
