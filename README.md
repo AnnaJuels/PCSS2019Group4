@@ -25,21 +25,21 @@ The client side has been developed by ...
 
 The first message the player will see is: <br/>
 <p align="center">
-*Welcome to Rock, Paper, Scissors!* <br/>
-*If you are playing for the first time, press 1 and enter to see the rules* <br/>
-*Press 2 and enter to start game immediately!* <br/>
-*Or press 3 and enter to exit the system.* <br/>
+Welcome to Rock, Paper, Scissors! <br/>
+If you are playing for the first time, press 1 and enter to see the rules <br/>
+Press 2 and enter to start game immediately! <br/>
+Or press 3 and enter to exit the system. <br/>
 </p>
  
 The rules of our game are the same as for a normal rock, paper, scissors game, which are: <br/>
 <p align="center">
-*rock beats scissors, paper beats rock and scissors beats paper* <br/>
+rock beats scissors, paper beats rock and scissors beats paper <br/>
 </p>
 These rules will be displayed to the players if they want to see them by clicking a certain number.
 
 If the first player clicks 2, he has to wait till a second player joins the game. As soon as there is a second player, the real game starts and the players are asked for a user input. They have three options to choose from: <br/>
 <p align="center">
-*‘r’ = rock, ‘p’ = paper and ‘s’ = scissors* <br/>
+‘r’ = rock, ‘p’ = paper and ‘s’ = scissors <br/>
 </p>
 
 As soon as the second player entered his choice as well, both choices will be displayed and a winner is presented. After the game is over, the players have three choices: see the rules again (click 1), replay the game (click 2) or exit the game (click 3).
